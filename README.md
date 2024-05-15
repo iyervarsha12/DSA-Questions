@@ -25,6 +25,16 @@ Dynamic programming problems
 10. Find least cost path in a matrix from initial to a final position
 11. Given a value sum, determine if there is a subset of the given set with sum equal to given sum.
 
+Graph problems
+1. Check if given graph is bipartite or not
+2. Given a chess board, find the minimum number of steps taken by a Knight to reach given destination from given source
+3. Find if a given graph has a cycle.
+4. Kahn's topological sort algorithm
+5. In a directed graph, find the total number of routes to reach the 	destination from given source that have exactly 'm' edges.
+6. Snake and ladder shortest number of steps.
+7. Find if a graph is strongly connected or not.
+8. Check if an undirected connected graph is 2-edge connected or not
+9. Topological sort of a directed acyclic graph (DAG)
+10. Transitive closure, form connectivit matrix of a graph
 
-
-Coming soon: Graphs problems, Hashmap problems and Heap problems.
+Coming soon: Hashmap problems and Heap problems.
