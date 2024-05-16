@@ -2,7 +2,6 @@
 
 This repository has challenging questions done to hone my skill in data structures and algorithms.
 
-It includes:
 Binary search tree problems
 1. Find the 'k'th smallest and largest element of a BST
 2. Find the lowest common ancestor of a given BST, given two elements in it
